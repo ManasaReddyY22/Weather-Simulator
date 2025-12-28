@@ -1,8 +1,5 @@
 Weather Simulator 🌦
-License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 Description
 
 The Weather Simulator is a Python-based project that uses the Markov Chain model to simulate weather conditions such as Sunny, Rainy, and Cloudy. The simulator predicts the next day’s weather based on transition probabilities and generates realistic weather sequences over multiple days.
@@ -13,8 +10,6 @@ Table of Contents
 
 Features
 
-Demo
-
 Installation
 
 Usage
@@ -22,8 +17,6 @@ Usage
 Technologies
 
 Contributing
-
-License
 
 Contact
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -39,11 +32,7 @@ Lightweight and beginner-friendly project.
 
 Extendable to add more weather conditions (e.g., snowy, stormy).
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
-Demo
 
-You can try the Weather Simulator by running the script locally.
-(Optional: Add a hosted demo link here if deployed on Replit, GitHub Pages, or Streamlit.)
-___________________________________________________________________________________________________________________________________________________________________________________________________________________
 Installation
 
 To run the Weather Simulator locally, follow these steps:
@@ -89,10 +78,7 @@ Contributing
 Contributions are welcome! 🎉
 If you find any bugs or have ideas for improvements, please open an issue or submit a pull request.
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
-License
 
-This project is licensed under the MIT License – see the LICENSE file for details.
-___________________________________________________________________________________________________________________________________________________________________________________________________________________
 Contact
 
 For any inquiries or feedback, please contact Manasa Reddy Y at 22manasareddy@gmail.com
